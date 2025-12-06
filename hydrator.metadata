@@ -1,8 +1,7 @@
 {
   "repoURL": "https://github.com/emirot/argocd-example-apps",
-  "drySha": "0d521c6e049889134f3122eb32d7ed342f43ca0d",
-  "author": "Yoonji Heo <myeunee@gmail.com>",
-  "date": "2025-09-09T11:15:23Z",
-  "subject": "chore: modernize ingress annotations and nodeSelector label (#402)",
-  "body": "Signed-off-by: Yoonji Heo <myeunee@gmail.com>\n"
+  "drySha": "203980e824084af7589568cb1ce0beeada0024e9",
+  "author": "Nolan Emirot <emirot.nolan@gmail.com>",
+  "date": "2025-12-06T01:09:31Z",
+  "subject": "Update values.yaml"
 }
